@@ -1,4 +1,4 @@
-API para gerenciar lugares (CRUD) que faz parte desse desafio para pessoas desenvolvedoras backend que se candiatam para a ClickBus.
+API para gerenciar lugares (CRUD) que faz parte do desafio para pessoas desenvolvedoras backend que se candiatam para a ClickBus.
 
 Tecnologias:
 * Spring Boot
@@ -22,11 +22,8 @@ Como Executar:
 Localmente
 * Clonar repositório git
 * Construir o projeto:
-
 ./mvnw clean package
-
 * Executar:
-
 java -jar place-service/target/place-service-0.0.1-SNAPSHOT.jar
 
 A API poderá ser acessada em localhost:8080. O Swagger poderá ser visualizado em localhost:8080/swagger-ui.html
